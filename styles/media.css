@@ -1,0 +1,18 @@
+@media screen and (max-width: 720px){
+    body{
+        height: 630px;
+        background-position-x: center;
+    }
+    nav{
+        display: none;
+    }
+#buttns{
+    width: 100%;
+
+}
+button{
+    width: 90%;
+    margin-top: 10px;
+}
+
+    }
